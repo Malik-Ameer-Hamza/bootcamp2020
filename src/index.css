@@ -1,13 +1,16 @@
 body{
-    background-color: #8a2be2;
+    background-color: rgb(59, 59, 59);
     text-align: center;
     
-    font-size: 50px;
+    font-size: 30px;
 
 }
 .App{
-    background-color: #ca072e;
-    color:#8a2be2;
+    background-color: rgba(245, 244, 244, 0.966);
+    color:rgb(59, 59, 59);
     text-align: center;
-    padding: 6px;
+    padding: 5px;
+    box-shadow: 4px 4px 3px rgba(255, 249, 249, 0.829);
+    border: 3px solid rgb(226, 56, 4);
+    border-radius: 5%;
 }
