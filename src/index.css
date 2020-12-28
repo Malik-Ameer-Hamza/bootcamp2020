@@ -12,8 +12,10 @@ body{
     padding: 5px;
     box-shadow: 4px 4px 3px rgba(255, 249, 249, 0.829);
     border: 3px solid rgb(226, 56, 4);
-    border-radius: 50%;
-    height: 600px;
-    width: 500px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    height: 650px;
+    width: 600px;
     margin-top: 50px;
+    margin-left: 200px;
 }
